@@ -1,0 +1,67 @@
+.title{
+    margin: 0;
+    margin-bottom: 48px;
+    font-weight: 600;
+    color: rgb(209, 93, 15);
+}
+
+.titleTwo{
+    margin: 0;
+    margin-top: 48px;
+    font-weight: 600;
+    color: rgb(209, 93, 15);
+}
+
+.list{
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0;
+}
+
+.lists{
+    padding: 0;
+}
+
+.item{
+    margin: 0;
+    margin-right: 24px;
+    list-style: none;
+}
+
+.items{
+    font-weight: 400;
+    color: rgb(209, 93, 15);
+    list-style: none;
+}
+
+.itemsy{
+    font-weight: 400;
+    color: rgb(51, 51, 51);
+    list-style: none;
+}
+
+.btn{
+    margin: 0;
+    border-radius: 20px;
+    color: rgb(51, 51, 51);
+    font-weight: 600;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border: 3px solid rgb(209, 93, 15);
+    transition: 300ms;
+}
+
+.btn:hover
+{
+    background-color: rgb(51, 51, 51);
+    color: rgb(209, 93, 15);
+    border: 3px solid rgb(51, 51, 51);
+}
+
+.message{
+    margin: 0;
+    margin-top: 48px;
+    color: rgb(51, 51, 51);
+}
